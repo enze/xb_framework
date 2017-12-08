@@ -1,0 +1,13 @@
+{
+    "name": "xb/framework",
+    "description": "php framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enze",
+            "email": "enzewei@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
